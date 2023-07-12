@@ -2,6 +2,8 @@
  Cards feitos com HTML e CSS.
 
  Projeto criado para treinar os conceitos de flexbox.
+
+ link do projeto: https://luccasmarinho.github.io/Cards-Comida/
  
 
  Visualização do projeto final:
